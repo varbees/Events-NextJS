@@ -5,7 +5,7 @@ const MainHeader = () => {
 	return (
 		<header className={classes.header}>
 			<div className={classes.logo}>
-				<Link>NextEvents</Link>
+				<Link href="/">Next Events</Link>
 			</div>
 			<nav className={classes.navigation}>
 				<ul>

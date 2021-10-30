@@ -34,7 +34,7 @@ const EventItem = (props) => {
 			</div>
 			<div className={classes.actions}>
 				<Button link={eventLink}>
-					<span>Explore</span>
+					{/* <span>Explore</span> */}
 					<span className={classes.icon}>
 						<ArrowRightIcon />
 					</span>
