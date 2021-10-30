@@ -59,8 +59,10 @@
   padding: 1rem;
 }
 
+
 .actions a {
   display: block;
+  border-radius: 80px;
 }
 
 .actions a span {
